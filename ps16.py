@@ -8,5 +8,3 @@ for f in range(cb):
             if s[f]<s[e]<s[r]:
                 a+=1
 print(a)
-
-fjghjgh
